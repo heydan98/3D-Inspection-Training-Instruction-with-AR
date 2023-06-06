@@ -10,10 +10,10 @@ Lecturer:  Phan Gia Luan
 
 Student:                         ID:
 
-Nguyen Ngoc Han	  	             20134014
+Nguyen Ngoc Han	  		  		           20134014
 
-Ha Gia Kinh          						 20134016
+Ha Gia Kinh								 20134016
 
 Nguyen Quoc Viet					  	   20134027
 
-Nguyen Huynh Lam Vu				       20134028
+Nguyen Huynh Lam Vu					       20134028
